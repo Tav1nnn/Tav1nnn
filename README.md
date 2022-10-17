@@ -14,9 +14,10 @@
   <img align="center" alt="Tavin-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
   <img align="center" alt="Tavin-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Tavin-MYsql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img aling="center" alt="Tavin-mariaDB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
   <img align="center" alt="Tavin-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tavin-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img aling="center" alt="Tavin-mariaDB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
+  
      
 </div>
 
