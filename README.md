@@ -11,12 +11,13 @@
   <img align="center" alt="Tavin-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  
   <img align="center" alt="Tavin-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
    <img align="center" alt="Tavin-Node" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="Tavin-salesforce" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
   <img align="center" alt="Tavin-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Tavin-MariaDB" height="30" width="40" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png">
   <img align="center" alt="Tavin-PostgreSQL" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Tavin-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   
   
      
 </div>
